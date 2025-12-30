@@ -9,5 +9,5 @@ setup(
     author_email='mimoralea@gmail.com',
     packages=['gym_aima', 'gym_aima.envs'],
     license='MIT License',
-    install_requires=['gym'],
+    install_requires=['gymnasium'],
 )
